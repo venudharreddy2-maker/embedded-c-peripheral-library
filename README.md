@@ -53,6 +53,23 @@ Developed and tested using Wokwi.
 - UART transmission: Successful
 - UART reception and buffering: Successful
 
+  
+## Simulation Results
+
+The firmware was tested using the Wokwi Arduino Uno simulator.
+
+![Embedded C Peripheral Library Simulation](screenshots/simulation.png)
+
+**UART Test Output:**
+- UART initialized successfully at 9600 baud.
+- Message transmission verified.
+- Received message: `hello`
+
+## Wokwi Project
+
+[View Live Simulation](https://wokwi.com/projects/480366924850286593)
+
+
 ## Learning Outcomes
 
 - AVR microcontroller register programming
