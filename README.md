@@ -1,4 +1,4 @@
-# embedded-c-peripheral-library
+
 # Embedded C Peripheral Library
 
 A modular embedded firmware project implementing GPIO, hardware timers, interrupts and UART communication using the ATmega328P microcontroller.
